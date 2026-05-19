@@ -1,6 +1,6 @@
 # NYC Taxi Demand Pipeline
 
-**Goal:** Build a single end-to-end ML pipeline as a proper software project, not a notebook.
+**Goal:** Build a single end-to-end ML pipeline.
 
 This means ingesting raw data, validating it, engineering features, training a demand forecasting model, evaluating it, and saving artifacts — all in modular Python scripts with clean separation between stages.
 
